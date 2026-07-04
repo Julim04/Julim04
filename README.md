@@ -36,8 +36,8 @@ Um ecossistema (site e aplicativo) focado em incentivar a prática de atividades
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Julim04&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="Status do GitHub" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julim04&layout=compact&langs_count=7&theme=gotham" alt="Linguagens mais usadas" height="180em" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Julim04&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="Status do GitHub" height="180em" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Julim04&layout=compact&langs_count=7&theme=gotham" alt="Linguagens mais usadas" height="180em" />
 </p>
 
 ---
