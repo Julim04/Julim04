@@ -29,7 +29,7 @@ Atualmente sou estudante de **Sistemas de Informação** no Centro Universitári
 
 ### 🏆 +Sports
 Um ecossistema (site e aplicativo) focado em incentivar a prática de atividades físicas em Volta Redonda. O projeto visa mapear quadras esportivas, organizar eventos locais e facilitar o acesso ao esporte na região.
-- **Contribuição:** Idealização, análise de pesquisas, prototipagem de alta fidelidade no Figma e desenvolvimento do projeto.
+
 
 ---
 
