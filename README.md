@@ -1,16 +1,53 @@
-## Hi there 👋
+# Olá, eu sou o Júlio Cezar! 👋
 
-<!--
-**Julim04/Julim04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente sou estudante de **Sistemas de Informação** no Centro Universitário de Volta Redonda (**UniFOA**), com previsão de formatura para o primeiro semestre de 2029. Sou fascinado por tecnologia, desenvolvimento de software, banco de dados e design de interface.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre Mim
+
+- 🎓 Graduando em Sistemas de Informação (UniFOA)
+- 📍 Baseado em Volta Redonda - RJ
+- 💡 Interesses em Desenvolvimento Web/Mobile, Engenharia de Software, UX/UI Design e Banco de Dados.
+- ⚙️ Nas horas vagas, estou sempre explorando novas tecnologias, criando protótipos e buscando soluções práticas para desafios reais.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+### 💻 Desenvolvimento & Banco de Dados
+- **Linguagens/Frameworks:** HTML5, CSS3, JavaScript
+- **Ferramentas & Controle de Versão:** Git, GitHub
+
+### 🎨 Design & Prototipagem
+- **UI/UX:** Figma (Prototipagem de aplicativos e sites)
+- **Edição e Criação:** Adobe Photoshop
+
+---
+
+## 📁 Projetos em Destaque
+
+### 🏆 +Sports
+Um ecossistema (site e aplicativo) focado em incentivar a prática de atividades físicas em Volta Redonda. O projeto visa mapear quadras esportivas, organizar eventos locais e facilitar o acesso ao esporte na região.
+- **Contribuição:** Idealização, análise de pesquisas, prototipagem de alta fidelidade no Figma e desenvolvimento do projeto.
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Julim04&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="Status do GitHub" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julim04&layout=compact&langs_count=7&theme=gotham" alt="Linguagens mais usadas" height="180em" />
+</p>
+
+---
+
+## 📫 Como me encontrar
+
+- **LinkedIn:** [Júlio Cezar Barbosa de Souza]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/julio-cezar-barbosa-de-souza-443860281/?skipRedirect=true))
+- **E-mail:** [barbosadesouzaj15@gmail.com](barbosadesouzaj15@gmail.com)
+
+---
+<p align="center">
+  <i>"Milagres só acontecem com as pessoas que não desistem."</i>
+</p>
