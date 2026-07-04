@@ -1,6 +1,6 @@
 # Olá, eu sou o Júlio Cezar! 👋
 
-Atualmente sou estudante de **Sistemas de Informação** no Centro Universitário de Volta Redonda (**UniFOA**), com previsão de formatura para o primeiro semestre de 2029. Sou fascinado por tecnologia, desenvolvimento de software, banco de dados e design de interface.
+Atualmente sou estudante de **Sistemas de Informação** no Centro Universitário de Volta Redonda (**UniFOA**), com previsão de formatura para o segundo semestre de 2029. Sou fascinado por tecnologia, desenvolvimento de software, banco de dados e design de interface.
 
 ---
 
@@ -44,8 +44,8 @@ Um ecossistema (site e aplicativo) focado em incentivar a prática de atividades
 
 ## 📫 Como me encontrar
 
-- **LinkedIn:** [Júlio Cezar Barbosa de Souza]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/julio-cezar-barbosa-de-souza-443860281/?skipRedirect=true))
-- **E-mail:** [barbosadesouzaj15@gmail.com](barbosadesouzaj15@gmail.com)
+- **LinkedIn:** [Júlio Cezar Barbosa de Souza](https://www.linkedin.com/in/julio-cezar-barbosa-de-souza-443860281/)
+- **GitHub:** [Julim04](https://github.com/Julim04/)
 
 ---
 <p align="center">
